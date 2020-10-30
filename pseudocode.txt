@@ -1,0 +1,18 @@
+Get user input:
+Prompt user to enter their name
+Prompt user kilometer distance 
+Prompt user all records purchased total 
+
+Get total price of products with tax:
+productTotal * 0.14% tax rate 
+
+Get total delivery cost:
+totalKilometers * $15 delivery fee
+
+Get complete order cost:
+taxedProductTotal + totalDeliveryCost 
+
+Display: customer name
+Display: delivery cost
+Display: purshase cost
+Display: total cost
